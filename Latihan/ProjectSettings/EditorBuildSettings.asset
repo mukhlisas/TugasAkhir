@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplassScreen.unity
+    guid: ae45cf98c4b67fd4da963d284aecd4fd
+  - enabled: 1
+    path: Assets/Scenes/welcome.unity
+    guid: 519e881e1bcaff443836154d81b68862
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: eea0e1b8bcad5984dbe32a550c9aa555
+  - enabled: 1
+    path: Assets/Scenes/info.unity
+    guid: beee772d69d813740ada0056657c066d
+  - enabled: 1
+    path: Assets/Scenes/worksheet.unity
+    guid: 47afe77debee5b747ad057a47ded2074
+  - enabled: 1
+    path: Assets/Scenes/project.unity
+    guid: 6056db99f2a93eb4e89f73ba097c5e4b
+  - enabled: 1
+    path: Assets/Scenes/instalasi.unity
+    guid: 3076b8fa21c222645ba9432c696945ed
+  - enabled: 1
+    path: Assets/Scenes/render.unity
+    guid: 0c9502c94e8984a4cae81901c659c911
+  - enabled: 1
+    path: Assets/Scenes/belajar.unity
+    guid: 89ea033fcc3c1cf41a9e5c6fd0384b31
+  - enabled: 1
+    path: Assets/Scenes/quiz.unity
+    guid: f900126764557ec48b9fb4b91ed0d58c
+  m_configObjects: {}
