@@ -1,2 +1,2 @@
 # TugasAkhir
-Membuat Aplikasi Edukasi Belajar Membuat Video Menggunakan Unity
+Merancang Aplikasi Belajar Membuat Video Berbasis Android Menggunakan Unity
